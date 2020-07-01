@@ -18,3 +18,5 @@ it is nice to have it just in case (mainly for debugging).
 After you perform the calibration progress, it will take input from your screen, and place a dot where the program thinks 
 you are looking at. It is not the most accurately, but the code should be making it as accurate as possible. Currently
 looking into having the dot become a normal overlay on the screen, instead of the screen being in a separate window.
+
+Will be updating whenver I have free time.
