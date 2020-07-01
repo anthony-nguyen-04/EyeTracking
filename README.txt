@@ -8,6 +8,7 @@ Previous iterations can be found in "extras" folder, but they are uncommented an
 Calibration images will be saved into the "analysis" folder.
 
 Instructions:
+*  Download the shape_predictor_68_face_landmarks.dat file from the shape_predictor_68_face_landmarks.txt file link
 *  On the calibration screen, press the 'c' key, while looking at the colored dot on the screen.
 *  Press (Hold) 'w' to skip the calibration sequence (only works if you already have taken calibration images already).
 *  Press (Hold) 'e' to toggle a static border for the bounds of the eye detection. Better to leave it untoggled, but
